@@ -1,0 +1,3 @@
+Name Surname Number_of_card Password Balance
+Alex Tarasik 6789-5435-5435-7890 1234 567.99
+Steve Peterson 5404-3634-1352-3252 8909 450.99
